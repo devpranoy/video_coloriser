@@ -1,3 +1,4 @@
+
 # coding: utf-8
 
 """ Setup script for installing fastai """
@@ -29,3 +30,4 @@ setup(
                    'Programming Language :: Python :: 3.6',
                    'Topic :: Scientific/Engineering :: Artificial Intelligence']
 )
+
