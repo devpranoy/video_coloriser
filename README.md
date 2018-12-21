@@ -27,4 +27,4 @@ Scene 3
 
 Scene 3 Output
 --
-![](https://giphy.com/gifs/4SZF3kS1viMbVTz6Cf/giphy.gif)
+![](https://media.giphy.com/media/4SZF3kS1viMbVTz6Cf/giphy.gif)
