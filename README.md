@@ -15,11 +15,11 @@ Scene 1 Output
 
 Scene 2
 --
-![](https://media.giphy.com/media/1zRdaBUwHY9TICbauA/giphy.gif)
+![](https://media.giphy.com/media/9Pb5noXeTuvk7qT7KA/giphy.gif)
 
 Scene 2 Output
 --
-![](https://media.giphy.com/media/AEAnr9t21zJCqJ8bne/giphy.gif)
+![](https://media.giphy.com/media/mugVpoFa4JLyfgqIKM/giphy.gif)
 
 Scene 3
 --
