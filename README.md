@@ -23,8 +23,8 @@ Scene 2 Output
 
 Scene 3
 --
-![](https://media.giphy.com/media/1zRdaBUwHY9TICbauA/giphy.gif)
+![](https://media.giphy.com/media/14SE6nWyrzMRwMM4Ie/giphy.gif)
 
 Scene 3 Output
 --
-![](https://media.giphy.com/media/AEAnr9t21zJCqJ8bne/giphy.gif)
+![](https://giphy.com/gifs/4SZF3kS1viMbVTz6Cf/giphy.gif)
