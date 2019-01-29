@@ -3,7 +3,6 @@ channels:
 - fastai
 - pytorch
 - defaults
-- peterjc123
 dependencies:
 - scipy
 - cuda90
